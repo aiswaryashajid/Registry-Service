@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(\"C:/Program Files/Python313/python.exe\" -c \"import graphify; print\\('graphify OK'\\)\")",
+      "Bash('C:/Program Files/Python313/python.exe' -c ' *)"
+    ]
+  }
+}

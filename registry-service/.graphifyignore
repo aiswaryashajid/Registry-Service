@@ -1,0 +1,30 @@
+# graphify exclusions for the KT pipeline
+#
+# GOAL: keep the corpus CODE-ONLY so graphify uses its deterministic,
+# token-free AST path and never fires the LLM semantic extractor (Part B).
+# Semantic extraction only runs for docs/papers/images — so by excluding
+# all non-source files below, the graphify build stays near zero-token.
+
+# Skill/tooling definitions — not registry-service source. Including them
+# pollutes the graph with graphify/cartographer/kt nodes.
+.claude/
+
+# Pipeline-GENERATED documents. These are produced BY the KT pipeline.
+# Graphing them is circular: it costs LLM tokens AND adds doc nodes that
+# are not part of the actual service code. The later phases read these
+# files directly, so they never need to be in the graph.
+docs/
+graphify-out/
+TOKEN_REPORT.md
+VALIDATION_REPORT.md
+
+# Project markdown / help — consumed directly by acquire-codebase-knowledge
+# (which searches for README/PRD/etc.), not needed in the code graph.
+*.md
+
+# Compiled output and bundled assets (also includes vendored JS/HTML that
+# would otherwise be AST-extracted and clutter the graph).
+target/
+
+# Local tooling scripts that are not part of the service source.
+kt-token-report.py

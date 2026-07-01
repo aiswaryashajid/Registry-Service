@@ -1,0 +1,187 @@
+{
+  "C:\\Workspace\\demo\\registry-service\\kt-token-report.py": {
+    "mtime": 1782109128.9525213,
+    "ast_hash": "05df0f61a2741d027e2a9e63a7db3052",
+    "semantic_hash": "05df0f61a2741d027e2a9e63a7db3052"
+  },
+  "C:\\Workspace\\demo\\registry-service\\mvnw": {
+    "mtime": 1777964463.511733,
+    "ast_hash": "ab50dd89da7da2346b28003352eeeeeb",
+    "semantic_hash": "ab50dd89da7da2346b28003352eeeeeb"
+  },
+  "C:\\Workspace\\demo\\registry-service\\src\\main\\java\\com\\vehicle\\registry_service\\RegistryServiceApplication.java": {
+    "mtime": 1777964463.839156,
+    "ast_hash": "1cc79ee6890361d9166c09cdbc95f4e8",
+    "semantic_hash": "1cc79ee6890361d9166c09cdbc95f4e8"
+  },
+  "C:\\Workspace\\demo\\registry-service\\src\\main\\java\\com\\vehicle\\registry_service\\Repository\\VehicleRegistrationRepository.java": {
+    "mtime": 1778517756.374681,
+    "ast_hash": "cf3ce95452fed6da4c032e6f5800d4fb",
+    "semantic_hash": "cf3ce95452fed6da4c032e6f5800d4fb"
+  },
+  "C:\\Workspace\\demo\\registry-service\\src\\main\\java\\com\\vehicle\\registry_service\\Repository\\spec\\VehicleSpecification.java": {
+    "mtime": 1778593459.4280894,
+    "ast_hash": "21b445060ca227ac66236d20483ad8b1",
+    "semantic_hash": "21b445060ca227ac66236d20483ad8b1"
+  },
+  "C:\\Workspace\\demo\\registry-service\\src\\main\\java\\com\\vehicle\\registry_service\\client\\ExternalApiClient.java": {
+    "mtime": 1779089609.4577053,
+    "ast_hash": "b7a1c51de7dc19f38dc46eb07612aa6c",
+    "semantic_hash": "b7a1c51de7dc19f38dc46eb07612aa6c"
+  },
+  "C:\\Workspace\\demo\\registry-service\\src\\main\\java\\com\\vehicle\\registry_service\\client\\SecurityClient.java": {
+    "mtime": 1779103250.7420564,
+    "ast_hash": "5862de81059d4a7a430334c13f197a70",
+    "semantic_hash": "5862de81059d4a7a430334c13f197a70"
+  },
+  "C:\\Workspace\\demo\\registry-service\\src\\main\\java\\com\\vehicle\\registry_service\\configuration\\ApiErrorExamples.java": {
+    "mtime": 1778487553.94171,
+    "ast_hash": "1a85a324e7e2eaba132f822a162c2930",
+    "semantic_hash": "1a85a324e7e2eaba132f822a162c2930"
+  },
+  "C:\\Workspace\\demo\\registry-service\\src\\main\\java\\com\\vehicle\\registry_service\\configuration\\OpenApiConfig.java": {
+    "mtime": 1778772102.6736183,
+    "ast_hash": "0be6ef4f420a71477f718b10861df05f",
+    "semantic_hash": "0be6ef4f420a71477f718b10861df05f"
+  },
+  "C:\\Workspace\\demo\\registry-service\\src\\main\\java\\com\\vehicle\\registry_service\\configuration\\SecurityConfig.java": {
+    "mtime": 1779170945.1472619,
+    "ast_hash": "7c6569b8435576a0868b19bb1eacdac0",
+    "semantic_hash": "7c6569b8435576a0868b19bb1eacdac0"
+  },
+  "C:\\Workspace\\demo\\registry-service\\src\\main\\java\\com\\vehicle\\registry_service\\configuration\\WebClientConfig.java": {
+    "mtime": 1778910245.7088845,
+    "ast_hash": "54e2a4de5e91211d3038555fb4368abd",
+    "semantic_hash": "54e2a4de5e91211d3038555fb4368abd"
+  },
+  "C:\\Workspace\\demo\\registry-service\\src\\main\\java\\com\\vehicle\\registry_service\\constants\\VehicleServiveConstants.java": {
+    "mtime": 1778853761.6184995,
+    "ast_hash": "182fa32eb27d929d4bb9cc1955c9a6a5",
+    "semantic_hash": "182fa32eb27d929d4bb9cc1955c9a6a5"
+  },
+  "C:\\Workspace\\demo\\registry-service\\src\\main\\java\\com\\vehicle\\registry_service\\controller\\VehicleRegistrationController.java": {
+    "mtime": 1779367937.5000834,
+    "ast_hash": "727c209fa524875b6d3e756b1c3c2552",
+    "semantic_hash": "727c209fa524875b6d3e756b1c3c2552"
+  },
+  "C:\\Workspace\\demo\\registry-service\\src\\main\\java\\com\\vehicle\\registry_service\\dto\\ApiErrorResponse.java": {
+    "mtime": 1777964984.9223335,
+    "ast_hash": "7c2ff113eef43b8f5068f016b0281694",
+    "semantic_hash": "7c2ff113eef43b8f5068f016b0281694"
+  },
+  "C:\\Workspace\\demo\\registry-service\\src\\main\\java\\com\\vehicle\\registry_service\\dto\\PaginatedResponseDto.java": {
+    "mtime": 1778670426.7823837,
+    "ast_hash": "95de147e914e8478fb6c17d233e96819",
+    "semantic_hash": "95de147e914e8478fb6c17d233e96819"
+  },
+  "C:\\Workspace\\demo\\registry-service\\src\\main\\java\\com\\vehicle\\registry_service\\dto\\TokenValidationResponseDto.java": {
+    "mtime": 1778762942.0483446,
+    "ast_hash": "1b5cd05e2e04c07616717110d957cc1b",
+    "semantic_hash": "1b5cd05e2e04c07616717110d957cc1b"
+  },
+  "C:\\Workspace\\demo\\registry-service\\src\\main\\java\\com\\vehicle\\registry_service\\dto\\VehicleRegisterRequest.java": {
+    "mtime": 1778476472.4643466,
+    "ast_hash": "0572415b7e013e2c601c44bce87472f3",
+    "semantic_hash": "0572415b7e013e2c601c44bce87472f3"
+  },
+  "C:\\Workspace\\demo\\registry-service\\src\\main\\java\\com\\vehicle\\registry_service\\dto\\VehicleResponse.java": {
+    "mtime": 1777965079.7388039,
+    "ast_hash": "2c4ffe7517f66013a6bc207ba2967771",
+    "semantic_hash": "2c4ffe7517f66013a6bc207ba2967771"
+  },
+  "C:\\Workspace\\demo\\registry-service\\src\\main\\java\\com\\vehicle\\registry_service\\dto\\VehicleUpdateRequest.java": {
+    "mtime": 1777965088.5563138,
+    "ast_hash": "0948302337320cec7c9d8c133fdfee06",
+    "semantic_hash": "0948302337320cec7c9d8c133fdfee06"
+  },
+  "C:\\Workspace\\demo\\registry-service\\src\\main\\java\\com\\vehicle\\registry_service\\entity\\Vehicle.java": {
+    "mtime": 1777965099.6142876,
+    "ast_hash": "0e5f52a0243ed9b04dc5d34a0af3eec6",
+    "semantic_hash": "0e5f52a0243ed9b04dc5d34a0af3eec6"
+  },
+  "C:\\Workspace\\demo\\registry-service\\src\\main\\java\\com\\vehicle\\registry_service\\exception\\ClientErrorException.java": {
+    "mtime": 1778850566.1269176,
+    "ast_hash": "3caca7feba0cc73c76f959239ad5d4f4",
+    "semantic_hash": "3caca7feba0cc73c76f959239ad5d4f4"
+  },
+  "C:\\Workspace\\demo\\registry-service\\src\\main\\java\\com\\vehicle\\registry_service\\exception\\DataNotFoundException.java": {
+    "mtime": 1777971850.9950316,
+    "ast_hash": "c099e0225c339d76d71b492a19cd295a",
+    "semantic_hash": "c099e0225c339d76d71b492a19cd295a"
+  },
+  "C:\\Workspace\\demo\\registry-service\\src\\main\\java\\com\\vehicle\\registry_service\\exception\\DuplicateDataException.java": {
+    "mtime": 1777972424.5896602,
+    "ast_hash": "b1a140aef0c8e29a6393f7c7f1b508ba",
+    "semantic_hash": "b1a140aef0c8e29a6393f7c7f1b508ba"
+  },
+  "C:\\Workspace\\demo\\registry-service\\src\\main\\java\\com\\vehicle\\registry_service\\exception\\InternalAuthException.java": {
+    "mtime": 1778853473.2933376,
+    "ast_hash": "7e906e143370ab742c9ea1ea88dc6fc4",
+    "semantic_hash": "7e906e143370ab742c9ea1ea88dc6fc4"
+  },
+  "C:\\Workspace\\demo\\registry-service\\src\\main\\java\\com\\vehicle\\registry_service\\exception\\ServiceDownException.java": {
+    "mtime": 1778850762.4347692,
+    "ast_hash": "959e7a3d5b180891a01a1606aed6850b",
+    "semantic_hash": "959e7a3d5b180891a01a1606aed6850b"
+  },
+  "C:\\Workspace\\demo\\registry-service\\src\\main\\java\\com\\vehicle\\registry_service\\exception\\TimeOutException.java": {
+    "mtime": 1778936250.059819,
+    "ast_hash": "f9af0b0850667c5140afac9ea578cf9c",
+    "semantic_hash": "f9af0b0850667c5140afac9ea578cf9c"
+  },
+  "C:\\Workspace\\demo\\registry-service\\src\\main\\java\\com\\vehicle\\registry_service\\exception\\VehicleRegistrationGlobalExceptionHandler.java": {
+    "mtime": 1779117297.0438013,
+    "ast_hash": "2795fc93f773a945d62ab86db03597a6",
+    "semantic_hash": "2795fc93f773a945d62ab86db03597a6"
+  },
+  "C:\\Workspace\\demo\\registry-service\\src\\main\\java\\com\\vehicle\\registry_service\\filters\\JwtAuthFilter.java": {
+    "mtime": 1779171017.232863,
+    "ast_hash": "00d2125c42fe0ed7da00c72ad80ddf43",
+    "semantic_hash": "00d2125c42fe0ed7da00c72ad80ddf43"
+  },
+  "C:\\Workspace\\demo\\registry-service\\src\\main\\java\\com\\vehicle\\registry_service\\service\\VehicleRegistrationService.java": {
+    "mtime": 1779367747.262542,
+    "ast_hash": "becb15b3959a7b164b858110b95c56da",
+    "semantic_hash": "becb15b3959a7b164b858110b95c56da"
+  },
+  "C:\\Workspace\\demo\\registry-service\\src\\test\\java\\com\\vehicle\\registry_service\\RegistryServiceApplicationTests.java": {
+    "mtime": 1777964464.0581436,
+    "ast_hash": "ea5252c61cdd281c801483056b41617d",
+    "semantic_hash": "ea5252c61cdd281c801483056b41617d"
+  },
+  "C:\\Workspace\\demo\\registry-service\\src\\test\\java\\com\\vehicle\\registry_service\\Repository\\VehicleRegistrationRepositoryTest.java": {
+    "mtime": 1778592762.0128648,
+    "ast_hash": "17ea70f265d79775c426d5517a67c91a",
+    "semantic_hash": "17ea70f265d79775c426d5517a67c91a"
+  },
+  "C:\\Workspace\\demo\\registry-service\\src\\test\\java\\com\\vehicle\\registry_service\\client\\ExternalApiClientTest.java": {
+    "mtime": 1779173727.1504362,
+    "ast_hash": "f2f1ccce81b0dc7baeab5b1596db6a0f",
+    "semantic_hash": "f2f1ccce81b0dc7baeab5b1596db6a0f"
+  },
+  "C:\\Workspace\\demo\\registry-service\\src\\test\\java\\com\\vehicle\\registry_service\\controller\\VehicleRegistrationControllerTest.java": {
+    "mtime": 1779122562.7489996,
+    "ast_hash": "e1f2ef1c31f8ab64610873db3cba3063",
+    "semantic_hash": "e1f2ef1c31f8ab64610873db3cba3063"
+  },
+  "C:\\Workspace\\demo\\registry-service\\src\\test\\java\\com\\vehicle\\registry_service\\filters\\JwtAuthFilterTest.java": {
+    "mtime": 1779173111.0806587,
+    "ast_hash": "282dca8b970d346eb33317105079c0ac",
+    "semantic_hash": "282dca8b970d346eb33317105079c0ac"
+  },
+  "C:\\Workspace\\demo\\registry-service\\src\\test\\java\\com\\vehicle\\registry_service\\service\\VehicleRegistrationServiceTest.java": {
+    "mtime": 1778591889.80704,
+    "ast_hash": "20562db23fb4a3e6882a3c9aae3438de",
+    "semantic_hash": "20562db23fb4a3e6882a3c9aae3438de"
+  },
+  "C:\\Workspace\\demo\\registry-service\\CLAUDE.md": {
+    "mtime": 1781769449.739259,
+    "ast_hash": "7f2cfedd71be2bb327d378308ec338fd",
+    "semantic_hash": "7f2cfedd71be2bb327d378308ec338fd"
+  },
+  "C:\\Workspace\\demo\\registry-service\\HELP.md": {
+    "mtime": 1777964463.600077,
+    "ast_hash": "77ae98728668754bb9e9f5d3a495d0ff",
+    "semantic_hash": "77ae98728668754bb9e9f5d3a495d0ff"
+  }
+}
